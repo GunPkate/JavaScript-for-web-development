@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Foward Interation Executive",
+        "desc": "Nobis quo est corporis totam dolores. Rerum quam autem debitis dolores sunt et quis occaecati. Nam dolorem dolores.",
+        "publishedDate":"4/1/2024",
+        "imageUrl": "https://fastly.picsum.photos/id/623/300/200.jpg?hmac=xr2VNq6eSOH_IghPsR7HhZTtoe7XHOQCZr1MvrTT2jU",
+        "url": "blogs/1.html"
+
+    },{
+        "title": "Skooldio",
+        "desc": "E-learning Platform.",
+        "publishedDate":"5/1/2024",
+        "imageUrl": "https://fastly.picsum.photos/id/330/300/200.jpg?hmac=Mgedjxr4HFkIg4070t7FVj5ItNzFR4fqj9ZvbYolFNQ",
+        "url": "blogs/2.html"
+        
+    },{
+        "title": "Skooldio 2",
+        "desc": "E-learning Platform.",
+        "publishedDate":"5/1/2024",
+        "imageUrl": "https://fastly.picsum.photos/id/330/300/200.jpg?hmac=Mgedjxr4HFkIg4070t7FVj5ItNzFR4fqj9ZvbYolFNQ",
+        "url": "blogs/3.html"
+    }
+]
