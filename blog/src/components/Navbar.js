@@ -7,13 +7,13 @@ class Navbar extends HTMLElement {
             <div class="flex justify-between">
                 <div class="flex space-x-4 px-2">
                 <div class="flex items-center space-x-1">
-                    <a href="/src/index.html" class="py-5 px-3 hover:text-gray-100"
+                    <a href="./index.html" class="py-5 px-3 hover:text-gray-100"
                     >Home</a
                     >
-                    <a href="/src/blogs.html" class="py-5 px-3 hover:text-gray-100"
+                    <a href="./blogs.html" class="py-5 px-3 hover:text-gray-100"
                     >Blog</a
                     >
-                    <a href="/src/contact.html" class="py-5 px-3 hover:text-gray-100"
+                    <a href="./contact.html" class="py-5 px-3 hover:text-gray-100"
                     >Contact</a
                     >
                 </div>
